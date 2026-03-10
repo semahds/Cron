@@ -49,7 +49,7 @@
 - Синхронизация расписания и оценок через облако
 - Загрузка данных с облака одной кнопкой
 
-<img width="391" height="809" alt="image" src="https://github.com/user-attachments/assets/1265f9d1-2730-4838-bb99-2970eadb3009" />
+<img width="291" height="709" alt="image" src="https://github.com/user-attachments/assets/1265f9d1-2730-4838-bb99-2970eadb3009" />
 
 
 ---
