@@ -6,6 +6,15 @@
 
 ## Возможности
 
+### 🏠 Главная
+Главная страница с информативными карточками.
+
+- Индикация текущего/следующего урока с кабинетом и временем
+- Расписание, средний балл и друзья в карточках
+
+<img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/c06a0e38-a94c-4bc8-ab53-d016c4105990" />
+
+
 ### 📅 Уроки
 Список уроков на день с номером кабинета и временем. Текущий урок подсвечивается, прошедшие - затемняются. Вверху отображается текущий урок, сколько осталось и какой следующий.
 
@@ -13,7 +22,7 @@
 - Индикация текущего/следующего урока с кабинетом и временем
 - Сдвиг уроков вверх/вниз
 
-<img width="291" height="709" alt="image" src="https://github.com/user-attachments/assets/aedd9fce-a788-4f0a-8401-6b5b251a7147" />
+<img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/9e2c3295-ac4a-4fc0-b96a-7562fedf36f3" />
 
 
 ---
@@ -26,7 +35,7 @@
 - Цветовая индикация: 🔴 <2.5 / 🟠 <3.5 / 🟡 <4.5 / 🟢 ≥4.5
 - Быстрый калькулятор без сохранения
 
-<img width="291" height="709" alt="image" src="https://github.com/user-attachments/assets/ff05e85e-2085-48cb-a9ba-618c8abe674c" /> <img width="291" height="709" alt="image" src="https://github.com/user-attachments/assets/5604ac83-2668-4dd2-be41-63915ed3fa70" />
+<img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/1f8eb4db-5276-4c15-9a77-6a068dd1576f" /> <img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/3cd11c05-d554-475b-b788-8d26271a1651" />
 
 
 
@@ -36,8 +45,12 @@
 - Настройка времени каждого урока
 - Выбор темы оформления: светлая / тёмная
 - Цветовые акценты: стандарт, красный, жёлтый, индиго, зелёный, голубой, фиолетовый, розовый, бирюзовый, оранжевый, лаймовый
+- Настройка отображения карточек на главной странице
+- Приватный режим, скрывающий расписание от друзей
 
-<img width="291" height="709" alt="image" src="https://github.com/user-attachments/assets/0fe89a14-9052-4b02-8b6d-0d8fcf8e0b4a" /> <img width="291" height="709" alt="image" src="https://github.com/user-attachments/assets/f3252f34-cd51-4422-88ff-6d2bc3226ae0" />
+<img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/fb426651-63e8-406b-8b7e-70dd350ab5c0" /> <img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/13fd4f32-266c-4900-81ed-564744a4d93f" />
+
+<img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/91a5957e-7125-4dca-a602-cd4c126009aa" /> <img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/a33b9e08-6e4e-403b-9f74-e819ad1c9aa0" />
 
 
 
@@ -49,8 +62,9 @@
 - Синхронизация расписания и оценок через облако
 - Загрузка данных с облака одной кнопкой
 - Возможность загружать фото для извлечения расписания и оценок
+- Возможность добавлять друзей и следить за их расписанием в реальном времени
 
-<img width="291" height="709" alt="image" src="https://github.com/user-attachments/assets/1265f9d1-2730-4838-bb99-2970eadb3009" />
+<img width="318" height="751" alt="image" src="https://github.com/user-attachments/assets/64efdd4b-676e-47a3-9758-ea38def64e0a" />
 
 
 ---
